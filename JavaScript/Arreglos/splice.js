@@ -10,7 +10,7 @@ nombres.splice(1, 0, "Elizabeth");
 console.log("Array con 'Elizabeth: ", nombres);
 
 //Eliminar elementos
-nombres.splice(3,4);
+nombres.splice(4,4);
 
 console.log("Array Eliminando elemento: ", nombres);
 
