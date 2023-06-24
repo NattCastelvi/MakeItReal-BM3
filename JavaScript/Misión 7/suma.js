@@ -1,3 +1,7 @@
+/*
+Sumando cualquier número Objetivo: Escribir una función llamada suma que reciba dos números y retorne su suma.
+*/
+
 function sum(num1,num2) {
     return num1 + num2
 }
