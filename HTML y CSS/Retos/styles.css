@@ -1,0 +1,11 @@
+h2 {
+    color: blueviolet;
+    font-size: 12px;
+    text-decoration: double;
+}
+
+p {
+    font-size: 10px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
