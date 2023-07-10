@@ -1,0 +1,26 @@
+.container {
+    background-color: rgb(149, 58, 234);
+    position: relative;
+    width: 400px;
+    height: 1000px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.box {
+    background-color: blanchedalmond;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.box-other {
+    background-color: rgb(156, 225, 66);
+    position: fixed;
+    margin-top: 200px;
+    margin-left: 200px;
+    width: 100px;
+    height: 100px;   
+}
