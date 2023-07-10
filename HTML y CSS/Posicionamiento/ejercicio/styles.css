@@ -1,0 +1,49 @@
+.head {
+    background-color: #fdddca;
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+
+.eye {
+    background-color: aquamarine;
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 80px;
+    height: 80px;
+}
+
+.pupil {
+    background-color: black;
+    position: absolute;
+    top: 30px;
+    right: 0;
+    width: 20px;
+    height: 20px;
+}
+
+.mouth {
+    background-color: #ff7987;
+    position: absolute;
+    bottom: 62px;
+    right: 0;
+    width: 90px;
+    height: 20px;
+}
+
+.body {
+    background-color: black;
+    position: relative;
+    width: 250px;
+    height: 500px;
+}
+ 
+.arm {
+    background-color: #fdddca;
+    position: absolute;
+    width: 250px;
+    height: 40px;
+    top: 100px;
+    left: 150px;
+}
