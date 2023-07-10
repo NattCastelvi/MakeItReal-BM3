@@ -1,3 +1,25 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #fff3ec;
+}
+
+.left {
+    width: 50%;
+    padding: 20px;
+}
+
+.right {
+    width: 50%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 .head {
     background-color: #fdddca;
     position: relative;
@@ -46,4 +68,16 @@
     height: 40px;
     top: 100px;
     left: 150px;
+}
+
+.message {
+    width: 200px;
+    height: 60px;
+
+    padding: 10px 100px 90px 70px;
+
+    border: 3px dashed rgb(128, 0, 255);
+
+    text-align: center;
+    font-size: 30px;
 }
