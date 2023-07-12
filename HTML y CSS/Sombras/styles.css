@@ -1,0 +1,15 @@
+.box {
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: blanchedalmond;
+    box-shadow: 15px 25px 20px 15px gray;
+}
+
+.text {
+    margin-left: 50px;
+    margin-top: 50px;
+    color: violet;
+    text-shadow: 3px 2px 3px black;
+}
