@@ -1,0 +1,14 @@
+.container {
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(-45deg, red, orange);
+    margin-bottom: 20px;
+    border-radius: 20px 10px 30px 40px;
+    /* border-top-right-radius: 5px; */
+}
+
+.container2 {
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(circle at 60px 60px, red, yellow);
+}
