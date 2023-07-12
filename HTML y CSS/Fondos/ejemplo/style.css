@@ -1,0 +1,12 @@
+.background {
+    width: 800px;
+    height: 1000px;
+
+    /* background-color: blueviolet;
+    background-image: url("/descarga.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;*/
+    background: yellow url("/descarga.jpeg") no-repeat center/contain fixed;
+} 
