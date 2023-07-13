@@ -1,0 +1,49 @@
+.mainContainer{
+    width: 450px;
+    height: 500px;
+    border: 2px solid rgb(57, 10, 104);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 10px 20px;
+}
+
+.item1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(231, 196, 152);
+}
+
+.item2 {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.item3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(54, 211, 159);
+}
+
+.item4 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(204, 150, 84);
+}
+
+.item5 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(31, 29, 29);
+}
+
+.item6 {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
